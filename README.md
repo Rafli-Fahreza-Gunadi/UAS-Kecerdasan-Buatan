@@ -5,8 +5,7 @@ Repository ini berisi jawaban Ujian Akhir Semester (UAS) mata kuliah Kecerdasan 
 
 ## Anggota Kelompok
 
-1. (Nama Anggota 1 — NIM)
-2. (Nama Anggota 2 — NIM, opsional, maksimal 2 orang)
+1. Rafli Fahreza Gunadi (2306058)
 
 
 ## Ringkasan Proyek
